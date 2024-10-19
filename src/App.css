@@ -1,0 +1,16 @@
+body {
+  background-color: #f8f9fa; /* Light gray background */
+}
+
+h1 {
+  color: #343a40; /* Dark gray color for the heading */
+}
+
+.list-group-item {
+  background-color: #ffffff; /* White background for list items */
+  border: 1px solid #dee2e6; /* Light gray border */
+}
+
+.list-group-item:hover {
+  background-color: #e9ecef; /* Light gray on hover */
+}
